@@ -27,11 +27,13 @@ const loop = setInterval(() => {
         mario.style.width = '130px'
         mario.style.marginLeft = '30px'
         
-        alert('Você perdeu 😩 Atualize a página para jogar novamente!');
-
+        
         
 
         clearInterval(loop);
+
+        alert('Você perdeu 😩 Atualize a página para jogar novamente!');
+
     }
 
 }, 10);

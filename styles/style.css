@@ -83,6 +83,7 @@ h1 {
 }
 
 @keyframes pipe-animation {
+
     from {
         right: -80px;
     }

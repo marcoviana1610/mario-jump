@@ -13,12 +13,22 @@
 
 <h2>Como funciona este jogo❓</h2>
 
-- O Mário precisa pular o obstáculo sem encostar no mesmo. Pressione qualquer tecla para pular.
+O Mário precisa pular o obstáculo sem encostar no mesmo.
 
 
-<h2>🚀Visualizar o projeto</h2>
+<h2>💻 Como rodar o projeto em sua máquina (contribua)</h2>
 
-Você pode visualizar/testar o projeto em:
-- https://marcoviana1610.github.io/mario-jump/
+- Basta utilizar o comando: git clone https://github.com/marcoviana1610/mario-jump.git
+- Sugestão: Se você utiliza o vscode, baixe a extensão Live Server. Abra o projeto no vscode, rode o live server e o jogo já estará rodando no seu localhost.
+- Utilize qualquer tecla para saltar!
+- Ao perder, atualize a página para jogar novamente
+- Ou acesse o link direto para jogar e testar https://marcoviana1610.github.io/mario-jump/
 
+
+<h2>🛠️ Futuramente...(estudando)</h2>
+
+- Incluir um sistema de vidas para o Mário
+- Sons
+- Outros cenários
+- Mais obstáculos
 
