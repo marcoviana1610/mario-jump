@@ -19,6 +19,6 @@
 <h2>🚀Visualizar o projeto</h2>
 
 Você pode visualizar/testar o projeto em:
-- 
+- https://marcoviana1610.github.io/mario-jump/
 
 
