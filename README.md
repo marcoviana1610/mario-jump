@@ -22,7 +22,7 @@ O Mário precisa pular o obstáculo sem encostar no mesmo.
 - Sugestão: Se você utiliza o vscode, baixe a extensão Live Server. Abra o projeto no vscode, rode o live server e o jogo já estará rodando no seu localhost.
 - Utilize qualquer tecla para saltar!
 - Ao perder, atualize a página para jogar novamente
-- Ou acesse o link direto para jogar e testar https://marcoviana1610.github.io/mario-jump/
+- Ou acesse o link direto para jogar e testar https://startling-stardust-f1221f.netlify.app/
 
 
 <h2>🛠️ Futuramente...(estudando)</h2>
